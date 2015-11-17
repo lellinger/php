@@ -1,0 +1,4 @@
+AJAX - Asynchronous Javascript and XML
+CSS - Cascading Style Sheet
+HTML - Hyper Text Markup Language 
+PHP - PHP Hypertext Preprocesser
